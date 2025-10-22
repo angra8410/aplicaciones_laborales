@@ -1,0 +1,12 @@
+# Requerimientos del Puesto
+
+- Manage and optimize HubSpot CRM to maintain data accuracy, automate workflows, and support sales team operations.
+- Build and analyze sales dashboards and reports to monitor key performance metrics and provide actionable insights.
+- Oversee deal management, contract renewals, and client handoffs to ensure a smooth sales process.
+- Collaborate with Marketing, Finance, and People Care teams to align lead management, billing, and staffing processes.
+- Drive continuous improvement by implementing process enhancements, leveraging AI tools such as ChatGPT, and maintaining updated documentation and training materials
+- 2–4 years of experience in Sales Operations, Revenue Operations, CRM Analysis, or Technical SDR roles, with strong proficiency in HubSpot.
+- Skilled in Google Workspace, Zoom/Google Meet, and ATS tools (e.g., Ashby), with experience using AI tools like ChatGPT for automation and reporting.
+- Strong analytical and business acumen, capable of interpreting data, identifying trends, and supporting B2B technology sales processes.
+- Basic understanding of software development, QA, DevOps, security, and UX/UI design concepts.
+- Excellent communication skills in English and Spanish, with a proven ability to collaborate across remote and cross-functional teams
