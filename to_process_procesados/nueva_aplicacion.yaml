@@ -1,16 +1,20 @@
-cargo: "Sales Operations Analyst"
-empresa: " Truelogic Software"
+cargo: "Business Analyst"
+empresa: "Infogain - LATAM"
 fecha: "2025-10-22"
-descripcion: "This role is responsible for managing and optimizing HubSpot CRM to ensure data accuracy, workflow automation, and effective sales support. It involves building dashboards and reports to track key KPIs, supporting deal management and client renewals, and collaborating with Marketing, Finance, and People Care teams to align operations. Additionally, the position focuses on driving continuous improvement through process optimization, leveraging AI tools like ChatGPT, and maintaining updated playbooks and training materials."
-  
-requerimientos:
-- Manage and optimize HubSpot CRM to maintain data accuracy, automate workflows, and support sales team operations. 
-- Build and analyze sales dashboards and reports to monitor key performance metrics and provide actionable insights. 
-- Oversee deal management, contract renewals, and client handoffs to ensure a smooth sales process. 
-- Collaborate with Marketing, Finance, and People Care teams to align lead management, billing, and staffing processes. 
-- Drive continuous improvement by implementing process enhancements, leveraging AI tools such as ChatGPT, and maintaining updated documentation and training materials
-- 2–4 years of experience in Sales Operations, Revenue Operations, CRM Analysis, or Technical SDR roles, with strong proficiency in HubSpot. 
-- Skilled in Google Workspace, Zoom/Google Meet, and ATS tools (e.g., Ashby), with experience using AI tools like ChatGPT for automation and reporting. 
-- Strong analytical and business acumen, capable of interpreting data, identifying trends, and supporting B2B technology sales processes. 
-- Basic understanding of software development, QA, DevOps, security, and UX/UI design concepts. 
-- Excellent communication skills in English and Spanish, with a proven ability to collaborate across remote and cross-functional teams
+descripcion: |
+  📢 The Business Analyst will work closely with client’s product and development teams to translate business needs into clear, actionable technical requirements. 
+  Reporting to Product Owner, this role will serve as the bridge between business objectives and technical delivery, ensuring alignment, documentation accuracy, and quality throughout the product lifecycle. 
+Requerimientos:
+- Collaborate with stakeholders to refine business needs into detailed technical requirements. 
+- Maintain clear and up-to-date documentation to support development and handover for ongoing maintenance. 
+- Coordinate and track product workflows to ensure smooth progress between teams. 
+- Perform functional testing, ticket validation, and acceptance verification before deployment. 
+- Support sprint planning and backlog refinement sessions in collaboration with product and engineering leads. 
+- Communicate requirements, blockers, and changes effectively between client and Infogain teams. 
+- Proven experience as a Business Analyst in a software development or SaaS environment. 
+- Strong understanding of Agile methodologies and SDLC. 
+- Excellent communication, analytical, and documentation skills. 
+- Experience with testing, validation, and ticket lifecycle management. 
+- Experience with Jira, Augment, Jellyfish 
+- Domain experience or fintech experience is a plus 
+
