@@ -1,0 +1,29 @@
+# Requerimientos del Puesto
+
+- into technical specifications.
+- Devise and manage ETL processes to collect data from diverse source systems, clean & standardize into functional format, and load into a central data warehouse.
+- Conduct regular system testing and troubleshoot BI tools.
+- Monitor data quality, integrity, and security across platforms.
+- Implement and enforce data governance, security, and quality standards within BI solutions.
+- Maintain current knowledge of emerging BI tools, cloud platforms, and industry trends, proactively recommending new technologies and methods aligned with business goals.
+- Provide technical guidance, knowledge sharing, and mentorship to junior analysts.
+- BA/BS in Computer Science, Information Systems, Data Analytics, or a related field; equivalent combination of education and experience may be considered.
+- 5+ years of progressive experience in business intelligence development, data analytics, or related fields.
+- Advanced proficiency in BI platforms such as Power BI, Tableau, or Qlik, including custom DAX/MDX development or advanced visualization techniques.
+- Strong expertise in SQL and relational database management, with demonstrated experience handling large and complex datasets.
+- Solid understanding of data warehousing concepts, dimensional modeling, and ETL processes.
+- Experience integrating data from multiple sources, including on-premise and cloud-based systems.
+- Sophisticated communication skills to include effective interface with both technical and non-technical stakeholders.
+- Solid understanding of basic financial principles, including P&L impact and pricing strategies.
+- Must pass a pre-employment background check and drug screen.
+- Master’s degree in a related discipline.
+- Prior experience in a BI developer or data architect role.
+- Demonstrated ability to lead BI solution design and independently manage complex projects.
+- Articulate verbal and written communication in English; effectively hear, speak, read, and write in a professional environment.
+- Ability to analyze complex datasets to identify trends, patterns, and opportunities.
+- Sufficient close visual acuity to accurately perform reading and typing functions on standard computer systems.
+- Ability to sit for extended periods of time.
+- Ability to manage time efficiently and execute assignments under minimal supervision.
+- Interpersonal aptitude; must effectively collaborate with cross-functional teams of data analysts, data engineers, and business leaders.
+- Refined organizational skills; ability to adapt in a multi-task, corporate business environment with fluctuating priorities.
+- Ability to drive independently.

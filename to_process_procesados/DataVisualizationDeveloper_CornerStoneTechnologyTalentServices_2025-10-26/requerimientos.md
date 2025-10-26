@@ -1,0 +1,19 @@
+# Requerimientos del Puesto
+
+- Lead development of reporting dashboards and data visualizations for clinical, operational, and quality performance metrics.
+- Collaborate with cross-functional teams to define business requirements and translate them into technical solutions.
+- Analyze source systems, define transformation requirements, and design dimensional data models.
+- Develop, document, and maintain data models, dashboards, and reporting mechanisms.
+- Serve as a liaison between IT and business stakeholders in a Technical Product Owner capacity.
+- Ensure accuracy, clarity, and usability of all reports and dashboards.
+- Provide guidance and training to business users on data visualization tools and reporting best practices.
+- Support the identification and definition of KPIs and measurement methodologies for quality and outcomes tracking.
+- 5+ years of experience in Business Intelligence or Analytics.
+- 3+ years of hands-on SQL experience (SSMS).
+- 3+ years with Power BI (Power BI Desktop and Service required).
+- Proficiency with relational databases and dimensional data modeling (3–5 years).
+- Proven experience with data visualization design and dashboard best practices.
+- Experience in Agile methodology environments.
+- Bachelor’s degree in Computer Science, Information Systems, or related field (or equivalent experience).
+- Healthcare or Home Health industry experience, especially with Home Care Home Base systems or OASIS datasets.
+- Familiarity with Microsoft Azure Data Factory or Data Warehouse solutions.
