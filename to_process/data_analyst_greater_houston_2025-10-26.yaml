@@ -1,0 +1,37 @@
+cargo: "Data Analyst"
+empresa: "ClearpointCo"
+fecha: "2025-10-26"
+modalidad: "remoto"
+descripcion: |
+ 
+  Excellent opportunity for a contract to hire opportunity to work for a very stable organization that is in the Pharmaceutical/Healthcare industry. This position is predominately remote with the exception of coming on-site for periodic team meetings.
+  The Data Analyst/Modeler will design Gold-layer star schemas and Power BI semantic models. You’ll partner with data engineering and BI to move data from Bronze → Silver → Gold in a Medallion architecture and deliver certified, performant metrics for leadership and operational teams responsible for cleaning up to optimize workflows. This position will require hands-on Data Modeler experience.
+
+requerimientos:
+  - 7+ years of Data Modeling experience
+  - 3+ years in data modeling or analytics engineering with strong SQL.
+  - Hands-on Microsoft Fabric
+  - Lakehouse/Warehouse, OneLake, Delta tables, Dataflows Gen2 or Pipelines; familiarity with SQL endpoint usage.
+  - Star schemas; fact types (transactional, periodic snapshot, accumulating); bridge tables for M. N; degenerate and junk dimensions.
+  - SCD Type 1/2 with MERGE; effective/expiry dating; handling late-arriving data.
+  - Power BI semantic modeling and DAX
+  - Clean tabular model design; CALCULATE/KEEPFILTERS/USERELATIONSHIP; date intelligence; semi-additive measures; model properties (data types, sort-by, formatting).
+  - Incremental refresh; basic aggregations; RLS.
+  - Define tests (unique/not-null/accepted values), document metrics, manage endorsements; apply sensitivity labels for PII/regulated data.
+  - Translate stakeholder requirements into grain/facts/dimensions and certified measures; collaborate across DE, BI, and business teams.
+  - Commercial/Operations. Orders and order lines, inventory availability, shipment/fulfillment, returns, pricing, promotions, member subscriptions.
+  - Membership lifecycle, entitlements, course enrollments and completions (CE), event attendance, certifications.
+  - Product catalog (APIs, bases, devices), formulations/recipes and versioning, stability/BUD attributes, allergens, SDS/CoA linkage.
+  - USP 795/797/800 compliance data, audit findings, corrective actions, sensitivity labeling, support case/ticketing.
+  - Define model grain, surrogate keys, conformed dimensions (e.g., Customer/Account, Product, Practitioner, Date, Geography), and role-playing dimensions.
+  - Implement SCD Type 1/2 in Delta (Warehouse/Lakehouse) for key dims (Customer, Product, Practitioner, Membership).
+  - Handle late-arriving facts/dimensions, inferred members, and bridge tables for many-to-many (e.g., formulation → multiple actives/allergens).
+  - Build and maintain Power BI semantic models
+  - Clean star schemas, relationship management, hierarchies, display folders.
+  - Author DAX measures for revenue, margin, order volume, fill rates/OTIF, inventory days, membership MRR/retention/churn, education completions, compliance KPIs.
+  - Implement time intelligence (MTD/QTD/YTD, PY), semi-additive measures (inventory snapshots).
+  - Configure incremental refresh, aggregations where needed, and Row-Level Security (e.g., by region/account team).
+  - Propose partitioning/clustering/Z-ordering strategies in Delta; consider Warehouse materialized views for heavy rollups; reduce cardinality in Power BI; choose pre-aggregation vs. Aggregations in PBI.
+  - Specify Silver contracts and quality checks (dedupe, CDC alignment, schema expectations).
+  - Review Pipelines/Dataflows Gen2/Notebooks outputs for model-readiness and effective dating.
+  - Maintain data dictionaries, lineage, SCD behavior, and certified metric definitions; apply sensitivity labels and endorsements.
