@@ -1,0 +1,30 @@
+# Requerimientos del Puesto
+
+- Maintaining ETL processes, and creating reporting structures.
+- Self-motivated and driven to produce quality products
+- Strong organizational skills and attention to detail
+- Strong analytical, consultative, and communication skills
+- Proven ability to manage and prioritize multiple projects/deliverables simultaneously
+- Strong commitment to deadlines and to client service (internal and external)
+- Excellent troubleshooting and problem-solving skills
+- Good collaboration skills when interacting with both technical and non-technical resources
+- Strong knowledge of relational databases
+- Proven ability to interpret data
+- Understanding of database and business intelligence concepts
+- A degree in Information Systems, Computer Science, Web Systems or other related degree (or work experience equivalent)
+- Experience with operational and strategic reporting
+- Experience with Microsoft Azure computing platform
+- Excellent SQL development skills
+- Strong experience developing ETL for a Data Warehouse
+- Experience with columnar and/or big data technologies
+- Experience with Zendesk
+- Experience with Intercom
+- Experience with Amazon Redshift
+- Experience with SalesForce
+- Experience with Netsuite
+- Design, implement, and test the structure and schemas of the data warehouse
+- Write workflows to implement extract, transform, and load methodologies
+- Collaborate with business users to design effective UI/UX for reports and dashboards based on the item’s audience. (this includes branding, themes, visuals, etc)
+- Interact with management, development, and business users across all departments to develop a strong understanding of the business needs and objectives
+- Regularly communicate project progress, issues and risks to direct manager (and project manager where appropriate)
+- Commitment to on-going education
