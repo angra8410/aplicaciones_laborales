@@ -1,0 +1,30 @@
+# Requerimientos del Puesto
+
+- Automation Development
+- Hands-on experience with Make, n8n, or Zapier (advanced logic, conditional routing, error handling).
+- Experience with CRM automations (HubSpot, Kommo, Pipedrive, etc.).
+- Working knowledge of APIs, webhooks, and JSON.
+- Familiarity with Google Ads, Meta Ads, and analytics tracking (GA4, Mixpanel).
+- Detail-oriented and comfortable testing, debugging, and documenting workflows.
+- English or Spanish fluency (English is a plus).
+- Build and maintain automation flows in n8n, Make, or Zapier.
+- Connect CRMs (Kommo, HubSpot), WhatsApp Business API, Google Sheets, and ad platforms.
+- Automate lead routing, follow-ups, report generation, and campaign triggers.
+- System Integration & QA
+- Create and test webhooks, APIs, and integrations between marketing and sales tools.
+- Ensure data consistency across all connected systems.
+- Monitor and troubleshoot automation issues proactively.
+- Process Optimization
+- Translate operational bottlenecks into automation opportunities.
+- Document workflows and SOPs to make automations scalable and reusable.
+- Collaborate with the growth and performance teams to improve data visibility.
+- Analytics & Reporting
+- Support automated data collection for CAC, ROAS, and funnel performance dashboards.
+- Build simple visual automations that update Looker Studio or Notion reports.
+- Required Skills
+- Hands-on experience with Make, n8n, or Zapier (advanced logic, conditional routing, error handling).
+- Experience with CRM automations (HubSpot, Kommo, Pipedrive, etc.).
+- Working knowledge of APIs, webhooks, and JSON.
+- Familiarity with Google Ads, Meta Ads, and analytics tracking (GA4, Mixpanel).
+- Detail-oriented and comfortable testing, debugging, and documenting workflows.
+- English or Spanish fluency (English is a plus).
