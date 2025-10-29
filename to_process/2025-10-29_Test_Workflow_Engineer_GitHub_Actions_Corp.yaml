@@ -1,0 +1,19 @@
+cargo: Test Workflow Engineer
+empresa: GitHub Actions Corp
+fecha: 2025-10-29
+descripcion: 'This is a test vacancy to verify the automated workflow.
+
+  We are testing that the system automatically generates YAML files
+
+  when a vacantes.txt file is uploaded to the repository.
+
+  '
+requerimientos: '- Understanding of GitHub Actions
+
+  - Experience with YAML
+
+  - Python scripting
+
+  '
+ubicacion: Remote
+tipo_contrato: Full-time
