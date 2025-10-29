@@ -3,6 +3,7 @@ import sys
 import shutil
 import yaml
 import subprocess
+from datetime import datetime
 
 # Import the enhanced personalization engine and scoring system
 from cv_personalization_engine import CVPersonalizationEngine
@@ -33,6 +34,10 @@ def main(yaml_path):
     cargo = sanitize_filename(data['cargo'])
     empresa = sanitize_filename(data['empresa'])
     fecha = data['fecha']
+    
+    # Generate timestamp for unique filenames
+    timestamp = datetime.now().strftime('%Y-%m-%dT%H-%M-%S')
+    
     folder_name = f"{cargo}_{empresa}_{fecha}"
 
     # Output directory in to_process_procesados
@@ -105,7 +110,8 @@ def main(yaml_path):
     print(f"  - Report saved to: {scoring_report_path}")
     
     # Convertir a PDF usando pandoc con formato profesional
-    pdf_filename = f"ANTONIO_GUTIERREZ_RESUME_{empresa}.pdf"
+    # Add timestamp to ensure unique filenames and avoid add/add conflicts
+    pdf_filename = f"ANTONIO_GUTIERREZ_RESUME_{empresa}_{fecha}_{timestamp}.pdf"
     pdf_path = os.path.join(output_dir, pdf_filename)
     
     # Get the path to the LaTeX header template
@@ -135,7 +141,8 @@ def main(yaml_path):
         print(f"Error al convertir a PDF con pandoc: {e}")
     
     # Convert scoring report to PDF
-    scoring_pdf_path = os.path.join(output_dir, "SCORING_REPORT.pdf")
+    # Add timestamp to ensure unique filenames and avoid add/add conflicts
+    scoring_pdf_path = os.path.join(output_dir, f"SCORING_REPORT_{fecha}_{timestamp}.pdf")
     try:
         # Create a cleaned version of the scoring report without emojis for PDF
         with open(scoring_report_path, 'r', encoding='utf-8') as f:

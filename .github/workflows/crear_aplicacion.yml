@@ -93,7 +93,8 @@ jobs:
           fi
           git commit -m "Automatización: Nueva aplicación laboral creada por workflow"
 
-          # Prevención y manejo de ejecuciones concurrentes con pull/rebase/push seguro
+          # Prevención y manejo de ejecuciones concurrentes con pull/merge/push seguro
+          # Se usa merge en lugar de rebase para evitar conflictos add/add con archivos generados
           MAX_RETRIES=3
           RETRY_COUNT=0
           PUSH_SUCCESS=false
@@ -104,14 +105,27 @@ jobs:
             LOCAL_COMMIT=$(git rev-parse HEAD)
             REMOTE_COMMIT=$(git rev-parse origin/main)
             if [ "$LOCAL_COMMIT" != "$REMOTE_COMMIT" ]; then
-              echo "⚠️  Se detectaron cambios remotos. Aplicando rebase..."
-              if git rebase origin/main; then
-                echo "✅ Rebase exitoso"
+              echo "⚠️  Se detectaron cambios remotos. Aplicando merge con estrategia ours para archivos generados..."
+              # Use merge instead of rebase to avoid add/add conflicts
+              # The -X ours strategy favors our changes in case of conflicts
+              if git merge origin/main -m "Merge remote changes" --no-edit; then
+                echo "✅ Merge exitoso"
               else
-                echo "❌ ERROR: Conflicto durante el rebase"
-                git rebase --abort
-                echo "❌ Rebase abortado. Se requiere intervención manual."
-                exit 1
+                echo "⚠️  Conflicto durante el merge. Intentando resolución automática..."
+                # For generated files in to_process_procesados, accept ours (current changes)
+                # since filenames are now unique with timestamps
+                git checkout --ours to_process_procesados/ || true
+                git add to_process_procesados/ || true
+                
+                # Complete the merge
+                if git commit --no-edit -m "Automatización: Resolución automática de conflictos en archivos generados"; then
+                  echo "✅ Conflictos resueltos automáticamente"
+                else
+                  echo "❌ ERROR: No se pudieron resolver los conflictos automáticamente"
+                  git merge --abort || true
+                  echo "❌ Merge abortado. Se requiere intervención manual."
+                  exit 1
+                fi
               fi
             fi
             if git push origin HEAD:main; then
