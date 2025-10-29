@@ -43,3 +43,6 @@ Thumbs.db
 test*.yaml
 *test.yaml
 validation*.yaml
+
+# Temporary processing files
+*_cleaned.md

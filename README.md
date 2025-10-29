@@ -61,6 +61,8 @@ Este repositorio incluye un **motor de personalización avanzado** y un **sistem
 - **[SETUP_REQUIRED.md](SETUP_REQUIRED.md):** ⚠️ **IMPORTANTE** - Instrucciones detalladas de configuración requerida
 
 #### 🔧 Troubleshooting y Solución de Problemas
+- **[SOLUCION_CONFLICTOS_CONCURRENCIA.md](SOLUCION_CONFLICTOS_CONCURRENCIA.md):** 🚀 **NUEVO** - Solución completa a conflictos de concurrencia en workflows (Fase 6)
+- **[DIAGRAMA_SOLUCION_CONFLICTOS.md](DIAGRAMA_SOLUCION_CONFLICTOS.md):** 🚀 **NUEVO** - Diagrama visual antes/después de la solución de conflictos
 - **[TROUBLESHOOTING_RAPIDO.md](TROUBLESHOOTING_RAPIDO.md):** 🚀 **NUEVO** - Guía rápida de resolución de problemas (5 minutos)
 - **[EJEMPLO_VISUAL_WORKFLOW.md](EJEMPLO_VISUAL_WORKFLOW.md):** 🚀 **NUEVO** - Ejemplos visuales de logs y escenarios
 - **[SOLUCION_IMPLEMENTADA.md](SOLUCION_IMPLEMENTADA.md):** 🚀 **NUEVO** - Resumen ejecutivo de la solución implementada
