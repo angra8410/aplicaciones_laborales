@@ -1,0 +1,29 @@
+cargo: "SQL Developer"
+empresa: "Avenue Code"
+fecha: "2025-10-27"
+modalidad: "remoto"
+descripcion: |
+ 
+ We are seeking a highly experienced SQL Server Developer to join our team. This role is focused on the critical analysis, optimization, and migration of large-scale databases. You will be a key contributor in transitioning database functionality to Azure SQL, working closely with architects, developers, and stakeholders.
+  
+requerimientos:
+  - 5+ years of experience as a SQL Server Developer or Database Developer.
+  - Deep expertise in MS SQL Server (2016/2019/2022) and T-SQL programming.
+  - Strong experience with ETL/ELT development (SSIS, Azure Data Factory).
+  - Proven ability to analyze large datasets, reverse-engineer stored procedures, and understand complex SQL logic.
+  - Experience with Azure SQL Database and hybrid cloud environments.
+  - Strong knowledge of database performance tuning, indexing, and query optimization.
+  - Bachelor’s degree in Computer Science or a related field (or equivalent experience).
+  - Advanced English skills.
+  - Experience with PowerShell or Python scripting for database automation.
+  - Knowledge of database security, roles, permissions, and compliance best practices.
+  - Experience working with a variety of stakeholders.
+  - added by the job poster
+  - Analyze and document large database objects, scripts, and dependencies to support migration planning.
+  - Develop and optimize T-SQL queries, stored procedures, triggers, and functions in Microsoft SQL Server.
+  - Build and maintain ETL/ELT workflows using SSIS and Azure Data Factory.
+  - Perform database performance tuning, including query optimization, indexing, and execution plan analysis.
+  - Collaborate with cross-functional teams to plan and execute database migrations.
+  - Identify and propose optimizations for inefficient or obsolete database objects.
+  - Ensure data integrity, consistency, and security during migration and daily operations.
+  - Provide mentorship to junior developers and serve as a subject-matter expert for SQL Server best practices.
