@@ -272,8 +272,9 @@ def main():
         sys.exit(1)
     
     # Look for CV PDF (not scoring report)
+    # Updated to support timestamped filenames: ANTONIO_GUTIERREZ_RESUME_{empresa}_{fecha}_{timestamp}.pdf
     pdf_files = [f for f in os.listdir(output_dir) 
-                 if f.startswith("ANTONIO_GUTIERREZ_RESUME_") and f.endswith(".pdf")]
+                 if f.startswith("ANTONIO_GUTIERREZ_RESUME_") and f.endswith(".pdf") and "SCORING_REPORT" not in f]
     
     if not pdf_files:
         print(f"❌ Error: No se encontró PDF del CV en {output_dir}")

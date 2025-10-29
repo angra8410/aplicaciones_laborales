@@ -41,6 +41,15 @@ Este repositorio incluye un **motor de personalización avanzado** y un **sistem
 - ✅ **Enlaces en Negro:** Todos los enlaces en color negro para ATS
 - ✅ **Documentación Completa:** Guías de uso y personalización incluidas
 
+#### Fase 6: Prevención de Conflictos en Ejecuciones Concurrentes (NUEVO ✅)
+- ✅ **Nombres de Archivo Únicos:** Todos los archivos generados incluyen timestamp para evitar colisiones
+  - Formato: `ANTONIO_GUTIERREZ_RESUME_{empresa}_{fecha}_{timestamp}.pdf`
+  - Ejemplo: `ANTONIO_GUTIERREZ_RESUME_TruelogicSoftware_2025-10-27_2025-10-27T01-30-45.pdf`
+- ✅ **Estrategia de Merge:** El workflow usa `git merge` en lugar de `git rebase` para evitar conflictos add/add
+- ✅ **Resolución Automática de Conflictos:** Si ocurren conflictos en archivos generados, se resuelven automáticamente
+- ✅ **Robustez en Concurrencia:** El sistema puede manejar múltiples aplicaciones al mismo puesto/fecha sin errores
+- ✅ **Compatibilidad Completa:** Los cambios son transparentes para el usuario final
+
 ### 📁 Documentación Completa
 
 #### ⚡ Inicio Rápido
