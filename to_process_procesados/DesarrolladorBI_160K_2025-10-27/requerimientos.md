@@ -1,0 +1,53 @@
+# Requerimientos del Puesto
+
+- directamente con usuarios finales, colaborando para entender sus necesidades y entregar soluciones BI efectivas y alineadas a los objetivos de negocio.
+- Integrar, modelar y asegurar la calidad de datos desde distintos programas.
+- Construir y automatizar pipelines de datos, reduciendo intervenciones manuales.
+- Desarrollar análisis y modelos predictivos en diversos lenguajes de programación, optimizando consultas y anticipando tendencias de negocio.
+- Participar en proyectos de mejora de procesos internos mediante BI y automatización.
+- Profesional titulado en Ingeniería informática, Ingeniería de sistemas, Ciencia de la Computación o carreras afines
+- 5+ años de experiencia en análisis de datos.
+- Dominio en generación de procesos ETL con Python avanzado.
+- Experiencia en SQL Server avanzando.
+- Experiencia en Power BI avanzado.
+- Enfoque al objetivo y a la proactividad.
+- Manejo de herramientas en IA.
+- Experiencia en diseño de reportes y modelos de análisis avanzados, integrando datos desde múltiples fuentes, optimizando la información y aplicando herramientas de análisis predictivo.
+- Excelentes habilidades de comunicación efectiva, resolución de problemas, enfocado a resultados, adaptabilidad y liderazgo.
+- Experiencia previa en proyectos con metodologías ágiles y trabajo colaborativo en equipos multidisciplinarios.
+- Conocimientos en GIT.
+- Experiencia en implementaciones de proyectos de datos en AWS (excluyente)
+- y gestión de tareas asignadas.
+- Orientación a la calidad tanto en aspectos visuales como en la funcionalidad de los dashboards.
+- Alta atención al detalle y pensamiento analítico para identificar oportunidades de mejora y validar datos.
+- Habilidades de comunicación efectiva para interactuar con usuarios finales y equipos multidisciplinarios, facilitando la traducción de necesidades de negocio en soluciones técnicas.
+- Interés por el aprendizaje continuo y actualización en nuevas tecnologías relacionadas con la inteligencia de negocios.
+- Capacidad para documentar procesos y soluciones implementadas, contribuyendo a la transferencia del conocimiento.
+- Modelar y explotar datos utilizando SQL y Python (modelos predictivos y análisis de datos).
+- Implementar y presentar KPI financieros y comerciales mediante herramientas de visualización como Power BI y Looker.
+- Diseñar soluciones con herramientas de IA (Copilot, Gemini, etc.).
+- Automatizar procesos de datos utilizando herramientas como OCI, Python o Talend.
+- Levantar flujos tecnológicos para monitoreo y generar reportes analíticos para equipos comerciales y financieros.
+- Diseñar y desarrollar paneles y dashboards interactivos utilizando Power BI, asegurando la calidad visual, funcional y el rendimiento óptimo de los modelos de datos.
+- Crear y optimizar medidas y columnas calculadas mediante DAX para análisis avanzados y dinámicos.
+- Conectar y extraer datos desde bases SQL Server, desarrollando consultas T-SQL eficientes y optimizadas para alimentar los modelos.
+- Realizar la migración de dashboards desde Zoho BI a Power BI, manteniendo la coherencia visual y funcional y mejorando la usabilidad e interactividad de los reportes.
+- Modelar datos empleando Power Query, estableciendo relaciones, jerarquías y tablas calculadas siguiendo buenas prácticas para mejorar el rendimiento y la escalabilidad.
+- Administrar y configurar workspaces y permisos dentro de Power BI Service para usuarios y equipos, garantizando la seguridad y el correcto acceso a la información.
+- Levantar y validar requerimientos directamente con usuarios finales, colaborando para entender sus necesidades y entregar soluciones BI efectivas y alineadas a los objetivos de negocio.
+- Integrar, modelar y asegurar la calidad de datos desde distintos programas.
+- Construir y automatizar pipelines de datos, reduciendo intervenciones manuales.
+- Desarrollar análisis y modelos predictivos en diversos lenguajes de programación, optimizando consultas y anticipando tendencias de negocio.
+- Participar en proyectos de mejora de procesos internos mediante BI y automatización.
+- Profesional titulado en Ingeniería informática, Ingeniería de sistemas, Ciencia de la Computación o carreras afines
+- 5+ años de experiencia en análisis de datos.
+- Dominio en generación de procesos ETL con Python avanzado.
+- Experiencia en SQL Server avanzando.
+- Experiencia en Power BI avanzado.
+- Enfoque al objetivo y a la proactividad.
+- Manejo de herramientas en IA.
+- Experiencia en diseño de reportes y modelos de análisis avanzados, integrando datos desde múltiples fuentes, optimizando la información y aplicando herramientas de análisis predictivo.
+- Excelentes habilidades de comunicación efectiva, resolución de problemas, enfocado a resultados, adaptabilidad y liderazgo.
+- Experiencia previa en proyectos con metodologías ágiles y trabajo colaborativo en equipos multidisciplinarios.
+- Conocimientos en GIT.
+- Experiencia en implementaciones de proyectos de datos en AWS (excluyente)

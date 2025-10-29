@@ -1,0 +1,24 @@
+# Requerimientos del Puesto
+
+- Analizar requerimientos y transformarlos en flujos de automatización eficientes y escalables
+- Diseñar, desarrollar y mantener soluciones en Power Automate (Cloud y Desktop)
+- Integrar flujos con SharePoint, Teams, Power Apps, Outlook, OneDrive, Azure y otros servicios empresariales
+- Implementar bots y automatizaciones RPA para tareas repetitivas o de alto volumen
+- Optimizar procesos existentes mediante el uso de IA Builder, Power BI y conectores personalizados
+- Documentar las automatizaciones desarrolladas y brindar soporte técnico de segundo nivel
+- Participar activamente en reuniones Scrum, planificación de sprints y revisiones técnicas
+- Colaborar con equipos de desarrollo, analistas de negocio y áreas operativas para asegurar soluciones alineadas con los objetivos de la organización
+- Universitaria completa, equivalente a bachillerato universitario o superior
+- Ingeniería en Sistemas, Informática, Computación o carreras afines
+- Automatización de procesos, Power Platform, tecnologías Microsoft o gestión digital de procesos empresariales (BPM)
+- Microsoft Certified. Power Platform Developer Associate (PL-400)
+- Microsoft Certified. Power Automate RPA Developer Associate (PL-500)
+- Microsoft Power Automate (Cloud & Desktop) – Desarrollo de flujos complejos, condicionales y paralelos
+- Power Apps – Integración con flujos y desarrollo de aplicaciones low-code
+- SharePoint / OneDrive / Teams – Conectividad y automatización de procesos colaborativos
+- Azure Logic Apps y API Management – Integraciones avanzadas y automatización híbrida
+- RPA (Robotic Process Automation) – Automatización de procesos de escritorio
+- Expresiones JSON y PowerFX – Personalización de flujos y manipulación de datos
+- Conectores personalizados y HTTP requests – Integraciones con sistemas externos
+- Power BI y AI Builder – Uso de análisis e inteligencia artificial en automatizaciones
+- Git / Azure DevOps – Control de versiones, CI/CD y despliegue de soluciones Power Platform

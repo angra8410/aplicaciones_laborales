@@ -1,0 +1,34 @@
+# Requerimientos del Puesto
+
+- Modelar capa dimensional (hechos/dimensiones), métricas consistentes y semantic layer en Looker.
+- Construir dashboards de impacto con performance (PDTs/materializaciones, BI Engine, caching).
+- Definir y versionar KPIs con negocio; documentar fuentes y criterios de cálculo.
+- Establecer RLS/CLS y gobernanza de acceso por dominio/rol.
+- Diseñar flujo de publicación (staging → prod) con validaciones de frescura/completitud.
+- Impulsar self-service analytics (plantillas, guías, catálogo) y soporte a stakeholders.
+- batch/stream en Dataflow (Apache Beam), BigQuery Streaming, particionamiento, ventanas y backfills.
+- Infra/DataOps:Pub/Sub, Dataflow o Dataproc (Spark), orquestación con Cloud Composer.
+- BI. preparación de datasets analíticos en BigQuery; agregaciones, métricas y SCD con dbt.
+- Núcleo común:BigQuery como DWH; Cloud Storage (GCS) para data lake; Cloud SQL (PostgreSQL) cuando aplique.
+- Infra/DataOps. diseño de particiones/clustering, tablas externas en GCS, Bigtable (plus) para time-series.
+- BI modelado dimensional (estrella/copo), vistas materializadas y semantic layer para Looker.
+- ETL/ELT
+- Núcleo común:dbt (BigQuery) con modelos, tests y documentación; Cloud Composer para dependencias.
+- Infra/DataOps. pipelines con Dataflow, backfills parametrizados, Great Expectations (o similar).
+- BI. transformación orientada a métricas/negocio con dbt; data contracts básicos.
+- Programación
+- Núcleo común:Python para datos (pandas/pyarrow), CLIs y testing.
+- Infra/DataOps. libs internas, jobs contenedorizados (Docker), rendimiento y paralelismo en Beam/Spark.
+- BI. SQL productiva, macros dbt, cálculos de métricas y validaciones.
+- Cloud Computing
+- Núcleo común:IAM, service accounts, costos en BigQuery; Cloud Build para CI.
+- Infra/DataOps:Terraform (IaC), Cloud Monitoring/Logging, lineage/catálogo con Dataplex/Data Catalog.
+- BI. Looker/Looker Studio, gobernanza de datasets y RLS/CLS sobre BigQuery.
+- Calidad y Seguridad de Datos
+- Núcleo común. validación, profiling y documentación.
+- Infra/DataOps. alertas SLO/SLA, detección de drift/duplicados; DLP, KMS, VPC-SC (plus).
+- BI. definiciones únicas de métricas, control de acceso y data freshness antes de publicar.
+- Optimización de Consultas y Modelado
+- Núcleo común. tuning de consultas y costos en BigQuery.
+- Infra/DataOps. particionamiento/clustering, Reservations/slots, Storage API.
+- BI. diseño de hechos/dimensiones (grain correcto) y BI Engine (plus).

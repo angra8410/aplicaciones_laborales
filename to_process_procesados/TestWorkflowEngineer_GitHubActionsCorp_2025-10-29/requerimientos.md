@@ -1,0 +1,81 @@
+# Requerimientos del Puesto
+
+- -
+-  
+- U
+- n
+- d
+- e
+- r
+- s
+- t
+- a
+- n
+- d
+- i
+- n
+- g
+-  
+- o
+- f
+-  
+- G
+- i
+- t
+- H
+- u
+- b
+-  
+- A
+- c
+- t
+- i
+- o
+- n
+- s
+- 
+
+- -
+-  
+- E
+- x
+- p
+- e
+- r
+- i
+- e
+- n
+- c
+- e
+-  
+- w
+- i
+- t
+- h
+-  
+- Y
+- A
+- M
+- L
+- 
+
+- -
+-  
+- P
+- y
+- t
+- h
+- o
+- n
+-  
+- s
+- c
+- r
+- i
+- p
+- t
+- i
+- n
+- g
+- 
+

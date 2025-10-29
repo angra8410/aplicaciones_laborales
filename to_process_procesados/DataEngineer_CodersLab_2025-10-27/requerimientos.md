@@ -1,0 +1,12 @@
+# Requerimientos del Puesto
+
+- Desarrollo de ingestas de Datos a GCP
+- Diseñar y construir pipelines de datos robustos para procesos de ingesta, transformación y carga (ETL/ELT).
+- Aplicar buenas prácticas en el manejo de datos. seguridad, gobernanza y cumplimiento.
+- Trabajar con sistemas de procesamiento distribuido para manejar grandes volúmenes de datos
+- Colaborar con equipos interdisciplinarios para impulsar decisiones basadas en datos.
+- Implementar soluciones escalables y eficientes utilizando herramientas de Google Cloud Platform (GCP).
+- Dominio del lenguaje de programación Python y Lenguaje de Consulta Estructurado (SQL).
+- Experiencia trabajando con plataformas de datos en la nube como Snowflake o tecnologías similares.
+- Conocimiento de los pipelines de aprendizaje automático y capacidad para apoyar el desarrollo de modelos utilizando herramientas como Amazon SageMaker.
+- Familiaridad con procesos de integración de datos como Extraer-Transformar-Cargar (ETL) o Extraer-Cargar-Transformar (ELT).

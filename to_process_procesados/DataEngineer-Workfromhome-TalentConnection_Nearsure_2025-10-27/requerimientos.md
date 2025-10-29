@@ -1,0 +1,16 @@
+# Requerimientos del Puesto
+
+- Perform varied analyses to support organization and client improvement.
+- Perform data validation tests to ensure quality.
+- Work with clients/clinicians to improve healthcare.
+- Manage client projects; ensure assigned projects are executed efficiently and according to project requirements and timelines.
+- Ensure expected requirements are met according to organizational standards and principles.
+- Bachelor's Degree in Computer Science, Engineering, or a related field.
+- 7+ Years of experience working in Data Engineering.
+- 5+ Years of experience working with SQL.
+- 5+ Years of experience working with Python.
+- 2+ Years of experience working with Cloud.
+- 2+ Years of experience working with ETL.
+- 2+ Years of experience working with Databricks.
+- 2+ Years of experience working with Agile methodologies and/or frameworks (Scrum, Kanban).
+- Advanced English Level is required for this role as you will work with US clients. Effective communication in English is essential to deliver the best solutions to our clients and expand your horizons.
