@@ -1,0 +1,14 @@
+cargo: "Colombia  1 day ago  22 applicants"
+empresa: "Insight Global"
+fecha: "2025-10-29"
+modalidad: "remoto"
+descripcion: |
+  
+  Our client is looking for a Sr Data Instrumentation Engineer to orchestrate product and data flows. They will be collaborating with the Product team to capture events for each feature that is developed on Web, App, and CTV platforms for their streaming application. They will be working in 2 week sprint cycles with an expectation of planning 2 sprints in advance before the feature is deployed. This role requires full-lifecycle data instrumentation starting with partnering with stakeholders to understand new feature adds, to collaborating with Product on figma sketches, to creating the specks and Jira tickets, then working with the engineers to develop, QA the feature and finally push to production. They will need to have experience cross-verifying and testing these features to ensure the correct events are captured. In addition, they will need to have hands on experience creating JSON files and leveraging Segment to connect to BigQuery for accurate data reporting. They will be utilizing Google Analytics 4 when related to attribution data flows.
+requerimientos:
+  - 3 years of experience leading data instrumentation efforts full-lifecycle
+  - Expertise creating JSON files and leveraging Segment to connect to BigQuery
+  - Professional experience working with product stakeholders, creating event specks/sprint planning, pushing into production, and QA'ing
+  - Strong expertise in Jira for data instrumentation ticket management and confluence for documentation
+
+
