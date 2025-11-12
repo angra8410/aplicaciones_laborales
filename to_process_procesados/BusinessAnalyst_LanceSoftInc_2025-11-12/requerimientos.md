@@ -1,0 +1,26 @@
+# Requerimientos del Puesto
+
+- Work with domestic and international business units, functional and technical leads, vendors, and other partners within Global Enterprise Technology Solutions (GETS) to support IT systems that enable YUM Growth Drivers and YUM GETS roadmaps. Assist in maintaining knowledge of GETS Restaurant Development Systems, supporting customer business needs while working under the guidance of senior analysts, vendors, and internal IT teams. Participate in efforts to drive continuous business and IT improvements through effective requirements gathering, analysis, and implementation of best practices
+- Provide IT administration and support for Restaurant Development systems, working with global development teams and YUM support teams to resolve support tickets and system maintenance requests.
+- Assist vendors and internal teams to ensure efficient and effective support coverage.
+- Research and recommend corrective actions for problem resolution.
+- Implement support process improvements, automation of support tasks, and training
+- Support project steps/phases within broader projects under guidance from senior analysts or leads.
+- Translate vendor and customer requirements for the GETS Integration team.
+- Collaborate with business analysts and cross-functional teams throughout the project lifecycle to define, document, and support functional and technical requirements.
+- Assist in testing cycles, translating technical requirements into detailed test plans and working with QA teams to develop integration test plans.
+- Support with testing integration solutions to ensure they meet system needs and quality standards.
+- Document existing data flows and develop new and improved processes.
+- Assist in training sessions for end users and cross-train team members on Restaurant Store Development (AiS)
+- Typically requires a college degree (or equivalent) with up to one year of experience but may not have any.
+- Developing foundational knowledge in Business Analysis with an emerging understanding of related disciplines and industry best practices.
+- Familiarity with Application Development methodologies and technical documentation.
+- Ability to work collaboratively across teams to achieve project goals.
+- Understanding of Restaurant Development Systems and related tools (preferably on a SaaS platform).
+- Basic knowledge of business analysis methodologies, technical documentation, and Agile project management.
+- Exposure to restaurant/store development processes and industry best practices
+- Problem Solving
+- Learns routine assignments of limited scope and complexity. Follows practices & procedures to solve standard or routine problems. Problems primarily utilizing existing processes.
+- Communication & Collaboration
+- Builds stable internal working relationships, interacts primarily with supervisors, mentors, or project leads, and seeks guidance from senior team members.
+- Be a self-starter, quickly learning other YUM systems while assisting the team with support
