@@ -1,102 +1,110 @@
-\documentclass[10pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[margin=0.6in]{geometry}
-\usepackage{parskip}
-\usepackage[hidelinks]{hyperref}
-\usepackage{setspace}
-\usepackage{multicol}
-\usepackage{enumitem}
-\setstretch{0.98}
-\setlength{\parskip}{0pt}
-\setlength{\parindent}{0pt}
-\pagenumbering{gobble}
-\setlist[itemize]{nosep, left=0.5em, topsep=0pt, parsep=0pt, partopsep=0pt, itemsep=2pt}
-
-\begin{document}
-
 \begin{center}
-{\Large\bfseries Antonio Gutierrez Amaranto}
+{\LARGE\bfseries Antonio Gutierrez Amaranto}
 
-\vspace{4pt}
+\vspace{8pt}
 
 Medellín, Antioquia, Colombia\\
 Tel: +57 304-650-3897\\
-Email: \href{mailto:antoineg84@hotmail.com}{antoineg84@hotmail.com}\\
-LinkedIn: \href{https://linkedin.com/in/antoniogutierrez-datos}{linkedin.com/in/antoniogutierrez-datos}
+Email: antoineg84@hotmail.com\\
+LinkedIn: linkedin.com/in/antoniogutierrez-datos
 
 \vspace{6pt}
 \noindent\rule{\textwidth}{0.4pt}
 \end{center}
 
-\small
+\vspace{6pt}
 
-\section*{Professional Summary}
-Data Analyst with 5+ years in ETL, data migration and BI across healthcare and enterprise environments. Proven at delivering automated reporting and consolidated dashboards that reduce manual work and speed decision-making.
+## Professional Summary
 
-\section*{Key Skills}
-\begin{multicols}{2}
-\begin{itemize}
-  \item \textbf{ETL / Data:} SQL Server, stored proc., Power Query (M), data modeling
-  \item \textbf{BI / Viz:} Power BI (DAX, data models), ThoughtSpot, dashboards
-  \item \textbf{Data Quality:} Cleansing, validation, governance
-  \item \textbf{Tools:} SAP, Salesforce, Meditech, Excel (advanced)
-  \item \textbf{Processes:} ETL automation, KPI design, dashboard automation
-  \item \textbf{Soft:} Stakeholder comms, training, documentation
-  \item \textbf{Langs:} Spanish (Native), English (Professional)
-\end{itemize}
-\end{multicols}
+Data Analyst with 5+ years of experience in ETL, data migration and business intelligence across healthcare and enterprise environments. Proven track record delivering automated reporting solutions and consolidated dashboards that reduce manual work and improve decision speed. Strong SQL and Power BI practitioner who translates stakeholder needs into KPIs and reliable data products.
 
-\section*{Professional Experience}
+\vspace{6pt}
 
-\textbf{Programmer Analyst} \\
-\textit{Management Health Services — Medellín, Colombia} \\
-\textit{Feb 2024 -- Present}
-\begin{itemize}
-  \item Developed 15+ automated reports (M-AT, NPR), reducing manual reporting time by 60\% for 200+ users.
-  \item Built 20+ SQL stored procedures, improving query performance by 40\% and reducing errors by 75\%.
-  \item Architected consolidated Power BI dashboard integrating 8 sources; cut prep time by 70\%.
-\end{itemize}
+## Key Skills
 
-\textbf{Channel Data Specialist} \\
-\textit{HP — Medellín, Colombia (Remote)} \\
-\textit{Jan 2022 -- Nov 2023}
-\begin{itemize}
-  \item Deployed Power BI dashboards across LATAM, reducing decision time by 40\%.
-  \item Implemented ETL automation integrating SAP, Salesforce and Excel; increased accuracy to 95\%.
-  \item Managed ThoughtSpot for 8 countries; ensured 100\% reporting accuracy.
-\end{itemize}
+- \textbf{Data Migration \& ETL:} SQL Server, stored procedures, Power Query (M), ETL process design, data modeling, data quality management.  
+- \textbf{Data Visualization \& BI:} Power BI (advanced: dashboard design, data modeling, DAX), ThoughtSpot, KPI development, dashboard automation.  
+- \textbf{Data Validation \& Quality Control:} Advanced Excel (validation, automation), data cleansing, performance metrics.  
+- \textbf{Systems \& Tools:} SAP, Salesforce, Meditech, Jira, Confluence, database optimization.  
+- \textbf{Collaboration \& Project Support:} Requirements elicitation, stakeholder communication, user training, documentation (English \& Spanish).  
+- \textbf{Languages:} Spanish (Native), English (Professional Working Proficiency).
 
-\textbf{Brokerage Associate} \\
-\textit{UPS — Medellín, Colombia} \\
-\textit{Sep 2020 -- Jan 2022}
-\begin{itemize}
-  \item Managed 200+ monthly shipments (99\% accuracy) and developed automated tracking (-65\% time).
-  \item Streamlined ETL for 1,000+ transactions, improving processing speed by 40\%.
-\end{itemize}
+\vspace{6pt}
 
-\textbf{Administrative Assistant} \\
-\textit{Servientrega CS — Barranquilla, Colombia} \\
-\textit{Feb 2016 -- Apr 2017}
-\begin{itemize}
-  \item Implemented 12 KPIs (+30\% sales visibility) and automated SAP analyses (-75\% reporting time).
-\end{itemize}
+## Professional Experience
 
-\section*{Education}
-\textbf{BBA, International Business and Finance} \\
-Universidad Autónoma del Caribe — Barranquilla, Colombia \\
-GPA: 4.4 / 5.0
+**Programmer Analyst**  
+*Management Health Services — Medellín, Colombia*  
+_Feb 2024 - Present_  
+- Developed 15+ automated reports (M-AT, NPR), reducing manual reporting time by 60% for 200+ healthcare professionals.  
+- Built 20+ SQL stored procedures, improving query performance by 40% and reducing error rates by 75%.  
+- Architected a consolidated Power BI dashboard integrating 8 data sources, cutting data preparation time by 70%.  
+- Led system migration and trained 15 users; implemented data governance protocols that increased data accuracy by 85%.  
+- Partnered with clinical and operational teams to refine reporting requirements and streamline data workflows.
 
-\section*{Certifications}
-\begin{itemize}
-  \item PL-300 Power BI Data Analyst Associate (In progress)
-  \item Google Data Analytics (2025); BI Essentials — IBM (2024)
-\end{itemize}
+**Channel Data Specialist**  
+*HP — Medellín, Colombia (Remote)*  
+_Jan 2022 - Nov 2023_  
+- Designed and deployed Power BI dashboards for sales, inventory and executive reporting across LATAM, reducing decision time by 40%.  
+- Implemented complex data models integrating SAP, Salesforce and Excel; optimized refresh cycles and improved reliability.  
+- Automated ETL and reporting processes, cutting manual processing time by 87% and increasing accuracy to 95%.  
+- Managed ThoughtSpot datasets for 8 countries, ensuring 100% reporting accuracy and timely KPI distribution.  
+- Delivered ad hoc analyses to support regional planning and operational decision-making.
 
-\section*{How My Experience Aligns}
-\begin{itemize}
-  \item Translate business needs into KPIs, dashboards and acceptance criteria.
-  \item Implement automation and process improvements to improve data quality and reduce incidents.
-  \item Coordinate with vendors and global teams; train end users and document processes.
-\end{itemize}
+**Brokerage Associate**  
+*UPS — Medellín, Colombia*  
+_Sep 2020 - Jan 2022_  
+- Managed 200+ monthly shipments with 99% accuracy for the UK market.  
+- Developed an automated tracking system that reduced processing time by 65%.  
+- Streamlined ETL processes for 1,000+ transactions, improving processing speed by 40% and reducing manual errors.  
+- Maintained 98% client satisfaction while managing 50+ regular clients.
 
-\end{document}
+**Administrative Assistant**  
+*Servientrega CS — Barranquilla, Colombia*  
+_Feb 2016 - Apr 2017_  
+- Implemented 12 KPIs that improved sales visibility by 30% across five regions.  
+- Automated SAP-based analyses, reducing reporting time by 75%.  
+- Managed a $5M+ annual sales budget with 98% forecasting accuracy.
+
+\vspace{6pt}
+
+## Education
+
+**Bachelor of Business Administration (BBA) in International Business and Finance**  
+Universidad Autónoma del Caribe — Barranquilla, Colombia  
+GPA: 4.4/5.0
+
+\vspace{6pt}
+
+## Certifications
+
+- \textbf{Power BI Data Analyst Associate (PL-300)} – Microsoft (In Progress)  
+- Google Data Analytics – Google (2025)  
+- Business Intelligence (BI) Essentials – IBM (2024)  
+- SQL for Data Science – Coursera (2023)
+
+\vspace{6pt}
+
+## Languages
+
+- English (Professional Working Proficiency)  
+- Spanish (Native)
+
+\vspace{6pt}
+
+## Ongoing Professional Development
+
+- Deepening expertise in advanced Power BI (DAX, dataflows, custom visuals) and practical integration via APIs/.NET.  
+- Exploring predictive analytics and applied machine learning for business use cases.
+
+\vspace{6pt}
+
+## How My Experience Aligns with This Role
+
+- Hands-on experience translating business needs into dashboards, KPIs and acceptance criteria for cross-functional stakeholders.  
+- Demonstrated ability to support enterprise reporting systems, implement automation and improve data quality and stability.  
+- Experience coordinating with vendors and global development/support teams to resolve issues and implement integrations.  
+- Proven track record training end users and documenting processes to ensure adoption and reduce incidents.  
+- Comfortable participating in testing cycles, creating test plans and validating integration solutions.
+
+\vspace{6pt}
