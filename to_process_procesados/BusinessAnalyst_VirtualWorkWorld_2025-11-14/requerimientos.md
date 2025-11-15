@@ -1,0 +1,27 @@
+# Requerimientos del Puesto
+
+- Experience using collaboration tools such as Teams, Zoho Projects, Notion, Slack, Asana, or similar platforms.
+- Ability to work independently and manage multiple priorities in a fast-paced environment.
+- Strong analytical and problem-solving skills, with the ability to simplify complexity and support sound decision-making.
+- Experience working with pricing, financial, or operational data in a growth-focused business environment.
+- Excellent written and verbal communication skills in English.
+- Conduct ad hoc analyses of data sets (e.g., pricing, operational performance, customer trends) and provide actionable recommendations.
+- Develop a strong understanding of how data interacts across multiple tables and systems to ensure integrity and consistency.
+- Collaborate with stakeholders to translate business needs into reliable data models, reports, and insights.
+- Use Excel extensively (advanced formulas, pivots, lookups) to support reporting and analysis.
+- As a secondary responsibility, write, optimize, and maintain SQL queries to extract and structure data as needed.
+- Build and maintain Power BI dashboards to visualize and share insights (secondary to SQL/database knowledge).
+- Thinks critically and solves problems with clarity and logic.
+- Approaches data extraction with accuracy and uses insights to guide decisions.
+- Stays proactive, resourceful, and independent in a fast-paced environment.
+- Minimum of 3 years of experience as a Business Analyst or in a similar analytical role.
+- At least 1 year of remote work experience, preferably with companies based in the US, UK, Canada, or Australia.
+- Strong knowledge of SQL databases, table structures, joins, and data relationships.
+- Proven experience analyzing large, multi-source datasets (e.g., pricing, operations, customer data) and translating findings into actionable insights.
+- Familiarity with SQL query writing and Power BI (or similar BI tools) for reporting and dashboard creation (secondary to SQL/database expertise).
+- Advanced Excel skills, including complex formulas, pivot tables, lookups, and data modeling.
+- Experience using collaboration tools such as Teams, Zoho Projects, Notion, Slack, Asana, or similar platforms.
+- Ability to work independently and manage multiple priorities in a fast-paced environment.
+- Strong analytical and problem-solving skills, with the ability to simplify complexity and support sound decision-making.
+- Experience working with pricing, financial, or operational data in a growth-focused business environment.
+- Excellent written and verbal communication skills in English.
